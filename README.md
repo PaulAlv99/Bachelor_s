@@ -1,31 +1,24 @@
+<div style="display: flex; justify-content: center; align-items: center;">
 <table border="1" cellpadding="5" cellspacing="0">
   <thead>
     <tr>
-      <th>Ano / Semestre</th>
+      <th>Ano</th>
       <th>Disciplinas</th>
       <th>Projetos</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="4">1º Ano – 1º Semestre</td>
-      <td>Paradigmas da Programação</td>
-      <td><a href="https://google.com" target="_blank">Projeto</a></td>
-    </tr>
-    <tr>
+      <td rowspan="2">1º Ano</td>
       <td>Sistemas Digitais</td>
-      <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
     <tr>
-      <td>Optativa – Introdução à Eletrónica</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
-    </tr>
-    <tr>
       <td>Estruturas de Dados e Algoritmos</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
     <tr>
-      <td rowspan="2">2º Ano – 1º Semestre</td>
+      <td rowspan="5">2º Ano</td>
       <td>Programação Orientada por Objectos</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
@@ -33,11 +26,8 @@
       <td>Sistemas Gestores de Bases de Dados</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
-    <tr>
-      <td rowspan="3">2º Ano – 2º Semestre</td>
       <td>Desenvolvimento Baseado na Web</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
-    </tr>
     <tr>
       <td>Arquitetura de Computadores</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
@@ -60,17 +50,30 @@
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
     <tr>
-      <td rowspan="3">3º Ano – 2º Semestre</td>
-      <td>Programação Avançada</td>
+      <td rowspan="3">3º Ano – 2º Semestre (Erasmus - Maribor)</td>
+      <td>Human Computer Interaction</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
     <tr>
-      <td>Engenharia de Software</td>
+      <td>Visual Culture</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
     <tr>
-      <td>Interação Humano-Computador</td>
+      <td>IS Architectures and Patterns</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
+    </tr>
+    <tr>
+        <td>Intelligent Systems</td>
+        <td><a href="https://google.com" target="_blank">Projeto</a></td>
+    </tr>
+    <tr>
+        <td>Ubiquitous Applications Technologies</td>
+        <td><a href="https://google.com" target="_blank">Projeto</a></td>
+    </tr>
+    <tr>
+        <td>Information Security Fundamentals</td>
+        <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
   </tbody>
 </table>
+</div>
