@@ -7,7 +7,6 @@
     </tr>
   </thead>
   <tbody>
-    <!-- 1º Ano – 1º Semestre -->
     <tr>
       <td rowspan="4">1º Ano – 1º Semestre</td>
       <td>Paradigmas da Programação</td>
@@ -26,7 +25,7 @@
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
     <tr>
-      <td rowspan="4">2º Ano – 1º Semestre</td>
+      <td rowspan="2">2º Ano – 1º Semestre</td>
       <td>Programação Orientada por Objectos</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
