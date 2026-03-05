@@ -21,8 +21,6 @@
       <td>Optativa – Introdução à Eletrónica</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
-
-    <!-- 1º Ano – 2º Semestre -->
     <tr>
       <td>Estruturas de Dados e Algoritmos</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
@@ -36,8 +34,6 @@
       <td>Sistemas Gestores de Bases de Dados</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
-
-    <!-- 2º Ano – 2º Semestre -->
     <tr>
       <td rowspan="3">2º Ano – 2º Semestre</td>
       <td>Desenvolvimento Baseado na Web</td>
@@ -51,8 +47,6 @@
       <td>Redes e Comunicação de Dados</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
-
-    <!-- 3º Ano – 1º Semestre -->
     <tr>
       <td rowspan="3">3º Ano – 1º Semestre</td>
       <td>Inteligência Artificial</td>
@@ -66,8 +60,6 @@
       <td>Engenharia de Requisitos</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
-
-    <!-- 3º Ano – 2º Semestre -->
     <tr>
       <td rowspan="3">3º Ano – 2º Semestre</td>
       <td>Programação Avançada</td>
