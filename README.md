@@ -14,7 +14,6 @@
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
     <tr>
-      <td><a href="https://google.com" target="_blank">Projeto</a></td>
       <td>Estruturas de Dados e Algoritmos</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
