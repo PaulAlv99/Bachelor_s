@@ -11,6 +11,7 @@
     <tr>
       <td rowspan="2">1º Ano</td>
       <td>Sistemas Digitais</td>
+      <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
     <tr>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
@@ -50,7 +51,7 @@
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
     <tr>
-      <td rowspan="3">3º Ano – 2º Semestre (Erasmus - Maribor)</td>
+      <td rowspan="6">3º Ano – 2º Semestre (Erasmus - Maribor)</td>
       <td>Human Computer Interaction</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
