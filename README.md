@@ -2,14 +2,14 @@
 <table border="1" cellpadding="5" cellspacing="0">
   <thead>
     <tr>
-      <th>Ano</th>
-      <th>Disciplinas</th>
-      <th>Projetos</th>
+      <th>Ano / Year</th>
+      <th>Disciplinas / Modules</th>
+      <th>Projetos / Projects</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2">1º Ano</td>
+      <td rowspan="2">1º</td>
       <td>Sistemas Digitais</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
@@ -18,7 +18,7 @@
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
     <tr>
-      <td rowspan="5">2º Ano</td>
+      <td rowspan="5">2º</td>
       <td>Programação Orientada por Objectos</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
@@ -37,7 +37,7 @@
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
     <tr>
-      <td rowspan="3">3º Ano – 1º Semestre</td>
+      <td rowspan="3">3º – 1º Semestre / Semester</td>
       <td>Inteligência Artificial</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
@@ -50,7 +50,7 @@
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
     <tr>
-      <td rowspan="6">3º Ano – 2º Semestre (Erasmus - Maribor)</td>
+      <td rowspan="6">3º – 2º Semestre / Semester (Erasmus - Maribor)</td>
       <td>Human Computer Interaction</td>
       <td><a href="https://google.com" target="_blank">Projeto</a></td>
     </tr>
